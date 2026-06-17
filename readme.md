@@ -1,4 +1,4 @@
-# Content-Based Album Recommender
+# Album Recommendation System
 
 A Python-based music recommendation engine that analyzes the acoustic profile of full-length albums using Spotify audio features. The system computes mathematical similarities between albums using metadata filtering and cosine similarity, ensuring recommendations stay structurally and culturally relevant.
 
